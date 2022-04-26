@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on anythinng
-- 📫 How to reach me 🖤Smetanolub💎#0001(discord) daniil.yershow@mail.ru(mail)
+- 📫 How to reach me-ask friends on ddnet
 
 <!---
 Smetanolub/Smetanolub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
